@@ -1,0 +1,19 @@
+.card {
+    background: rgba( 0, 0, 0, 0.8 );
+    backdrop-filter: blur( 5.5px );
+    -webkit-backdrop-filter: blur( 5.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    display: block;
+    margin: auto;
+    padding: 5px;
+}
+
+body {
+    background-image: url("info/cool-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img { transition: 0.7s; }
+img:hover { transform: scale(1.15); border-radius: auto; }
