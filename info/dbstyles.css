@@ -11,4 +11,5 @@ body {
     background-image: url("https://media.wired.com/photos/61a4e52aa828e7952ac35873/master/pass/Data-Animation_v2white.gif");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
